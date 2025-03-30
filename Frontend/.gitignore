@@ -1,0 +1,19 @@
+# Vendor dependencies
+vendor/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Cache
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/logs/*
